@@ -1,6 +1,8 @@
 Test helpers
 ============
 
+[![Build Status](https://travis-ci.org/aipng/test-helpers.svg?branch=master)](https://travis-ci.org/aipng/test-helpers)
+
 PrivatePropertyTrait
 ---------------------
 
